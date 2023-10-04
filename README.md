@@ -1,16 +1,20 @@
-### Hi there 👋
+# :sparkles: Hello there! :wave:
 
-<!--
-**biasatomi/biasatomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi, eu sou a Bia! 
 
-Here are some ideas to get you started:
+- :desktop_computer: Estudante de desenvolvimento de software na Cubos Academy
+- :mortar_board: Bacharel em psicologia - UNOESTE
+- :video_game: Valorant | jogos Indie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/biasatomi/)
+
+### Linguagens
+
+![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
+
+### Bibliotecas
+
+![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
+![React](https://img.shields.io/badge/React-282C34?logo=react)
