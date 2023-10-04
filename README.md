@@ -1,6 +1,6 @@
 # :sparkles: Hello there! :wave:
 
-Oi, eu sou a Bia! 
+Oi, eu sou a Bia! <img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="50px" />
 
 - :desktop_computer: Estudante de desenvolvimento de software na Cubos Academy
 - :mortar_board: Bacharel em psicologia - UNOESTE
