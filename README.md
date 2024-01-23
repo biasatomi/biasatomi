@@ -3,6 +3,7 @@
 Oi, eu sou a Bia! <img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="50px" />
 
 - :desktop_computer: Estudante de desenvolvimento de software na Cubos Academy
+- :coffee: Barista
 - :mortar_board: Bacharel em psicologia - UNOESTE
 - :video_game: Valorant | jogos Indie
 
