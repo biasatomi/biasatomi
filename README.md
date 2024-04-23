@@ -5,7 +5,7 @@ Oi, eu sou a Bia! <img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.g
 - :desktop_computer: Estudante de desenvolvimento de software na Cubos Academy
 - :coffee: Barista
 - :mortar_board: Bacharel em psicologia - UNOESTE
-- :video_game: Valorant | jogos Indie
+- :video_game: Valorant | Stardew Valley | Jogos indies
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/biasatomi/)
 
